@@ -1,4 +1,4 @@
-﻿# Hi, I'm Jaivanth T 👋
+﻿# Hello, I'm Jaivanth T 👋
 
 ## 🌐 [**View My Portfolio →**](https://jaivanth-net.github.io/jaivanth-portfolio/)
 
